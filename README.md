@@ -1,6 +1,6 @@
 # Straum
 
-A clustered MQTT broker in Rust that acknowledges a publish only after a
+A clustered MQTT broker that acknowledges a publish only after a
 majority of its nodes has committed it to one replicated log.
 
 **Website and docs: [straum-io.github.io](https://straum-io.github.io/)**
