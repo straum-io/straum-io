@@ -5,7 +5,7 @@ majority of its nodes has committed it to one replicated log.
 
 **Website and docs: [straum-io.github.io](https://straum-io.github.io/)**
 
-> Experimental, not production-ready: TLS and credentials only when configured. See the
+> Experimental, not production-ready: flow control is off and failover and performance are not yet confirmed by Linux measurements. TLS and credentials work, off by default. See the
 > [limitations](https://straum-io.github.io/project/limitations/).
 
 | Repository | What it is | Status |
